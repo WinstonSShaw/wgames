@@ -4,9 +4,17 @@
     padding: 0;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 /* .navbar-container {
     display: flex;
 } */
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/*NAVBAR */
 
 .navbar-top {
     display: flex;
@@ -30,4 +38,10 @@
     width: 30px;
     height: 30px;
 
+}
+
+/*BODY*/
+
+.ItemListContainer {
+    text-align: center;
 }
